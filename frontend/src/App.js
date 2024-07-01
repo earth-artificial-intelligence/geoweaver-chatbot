@@ -9,9 +9,7 @@ function App() {
         <h1>Wildfire Forecasting Chatbot</h1>
       </header>
       <main>
-        <p>
-        Try something</p>
-        {/* <Chatbot /> */}
+        <Chatbot />
       </main>
     </div>
   );

@@ -1,0 +1,42 @@
+body, html, #root {
+    height: 100%;
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .container-fluid {
+    height: 100%;
+  }
+  
+  .row {
+    flex-grow: 1;
+  }
+  
+  .bg-light {
+    background-color: #f8f9fa !important;
+  }
+  
+  .border-right {
+    border-right: 1px solid #dee2e6 !important;
+  }
+  
+  .overflow-auto {
+    overflow: auto;
+  }
+  
+  .p-3 {
+    padding: 1rem !important;
+  }
+  
+  .flex-grow-1 {
+    flex-grow: 1;
+  }
+  
+  .text-primary {
+    color: #007bff !important;
+  }
+  
+  .text-success {
+    color: #28a745 !important;
+  }
+  
