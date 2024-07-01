@@ -24,7 +24,7 @@ GeoWeaver Chatbot is a React-based chatbot application designed to assist with w
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/geoweaver-chatbot.git
+   git clone https://github.com/earth-artificial-intelligence/geoweaver-chatbot.git
    cd geoweaver-chatbot
    ```
 
