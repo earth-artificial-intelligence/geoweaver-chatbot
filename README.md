@@ -26,6 +26,7 @@ GeoWeaver Chatbot is a React-based chatbot application designed to assist with w
    ```bash
    git clone https://github.com/yourusername/geoweaver-chatbot.git
    cd geoweaver-chatbot
+   ```
 
 2. Install dependencies:
   ```bash
@@ -33,6 +34,7 @@ GeoWeaver Chatbot is a React-based chatbot application designed to assist with w
   npm install
   cd ../backend
   pip install -r requirements.txt
+  ```
 
 ## Running the Application
 
@@ -41,15 +43,18 @@ GeoWeaver Chatbot is a React-based chatbot application designed to assist with w
 - Unix-based systems (macOS, Linux):
 ```bash
 export NODE_OPTIONS=--openssl-legacy-provider
+```
 
 - Windows:
 ```cmd
 set NODE_OPTIONS=--openssl-legacy-provider
+```
 
 ### Start the application:
 
 ```bash
 npm start
+```
 
 ### Open your browser and navigate to http://localhost:3000.
 
@@ -72,6 +77,7 @@ geoweaver-chatbot/
 │   ├── package.json
 │   ├── .env
 ├── README.md
+```
 
 ## Contributing
 
@@ -84,10 +90,13 @@ Fork the repository: Click the "Fork" button on the upper right corner of the re
 ```bash
 git clone https://github.com/yourusername/geoweaver-chatbot.git
 cd geoweaver-chatbot
+```
+
 Create a new branch:
 
 ```bash
 git checkout -b feature/your-feature-name
+```
 
 Make your changes:
 
@@ -100,11 +109,13 @@ Commit your changes:
 ```bash
 git add .
 git commit -m "Add your descriptive commit message"
+```
 
 Push to your fork:
 
 ```bash
 git push origin feature/your-feature-name
+```
 
 Create a Pull Request: Go to the repository in your GitHub account and click the "New Pull Request" button.
 
