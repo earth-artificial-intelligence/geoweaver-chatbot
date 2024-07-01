@@ -92,32 +92,32 @@ git clone https://github.com/yourusername/geoweaver-chatbot.git
 cd geoweaver-chatbot
 ```
 
-Create a new branch:
+- Create a new branch:
 
 ```bash
 git checkout -b feature/your-feature-name
 ```
 
-Make your changes:
+- Make your changes:
 
 Ensure your code follows the project's coding standards.
 
 Update documentation as needed.
 
-Commit your changes:
+- Commit your changes:
 
 ```bash
 git add .
 git commit -m "Add your descriptive commit message"
 ```
 
-Push to your fork:
+- Push to your fork:
 
 ```bash
 git push origin feature/your-feature-name
 ```
 
-Create a Pull Request: Go to the repository in your GitHub account and click the "New Pull Request" button.
+- Create a Pull Request: Go to the repository in your GitHub account and click the "New Pull Request" button.
 
 ## License
 
